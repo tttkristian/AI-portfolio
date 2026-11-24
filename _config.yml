@@ -1,0 +1,11 @@
+# GitHub Pages settings. Turn on Pages in Settings → Pages → "Deploy from a branch" → main / (root).
+title: "[[Your Name]] · AI Learning Portfolio"
+description: "ICOM5015 Artificial Intelligence, UPRM, Fall 2026"
+theme: jekyll-theme-minimal
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: false
+exclude:
+  - templates/
