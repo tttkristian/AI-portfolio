@@ -12,6 +12,7 @@ A short timeline of turning points. Each one links to the evidence.
 | [[Sep]] | Python performance | Learned that *how* you measure decides the conclusion | [Python vs NumPy](../projects/python-performance/README.md) |
 | [[Oct]] | Search (Ch. 3) | Formulation matters more than the algorithm: an infinite plane became 35 states | [PA3](../projects/pa3-search/README.md) |
 | [[Oct]] | Local search (Ch. 4) | Reproduced a textbook number to check my own setup before trusting new results | [Local Search](../projects/local-search/README.md) |
+| Nov | What counts as intelligence | Performance isn't proof of understanding, but an experiment can look *inside* a model (Li et al.'s Othello probe) | [Debate essay](../projects/intelligence-essay/README.md) |
 | [[Nov]] | Adversarial search (Ch. 5) | Hidden information: sample possible worlds, then search each one | [Domino AI](../projects/domino-ai/README.md) |
 | [[Dec]] | [[Constraints / logic / uncertainty / learning]] | [[Fill in as the course continues]] | [[ ]] |
 

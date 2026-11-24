@@ -32,6 +32,7 @@
 | [Search: Robot Paths & River Crossings](projects/pa3-search/README.md) | Problem formulation, uninformed & informed search (Ch. 3) | CO1→SO1, CO4→SO3 | A\* optimal in 60/60 scenes with ~15× fewer expansions than UCS |
 | [Local Search on 8-Puzzle & 8-Queens](projects/local-search/README.md) | Hill climbing, simulated annealing (Ch. 4) | CO1→SO1, SO6 | Reproduced the textbook's 14% hill-climbing success rate (12.9%) |
 | [Python vs NumPy Performance](projects/python-performance/README.md) | Experimental methodology | SO6 | Showed how a timing mistake turns a 91.6× speedup into 0.8× |
+| [Is AI Real Intelligence? (debate essay)](projects/intelligence-essay/README.md) | Literature review: understanding vs. performance | CO3→SO7, CO4→SO3 | Sorted 6 sources by type of evidence; found citation errors in our own submission |
 
 ## Course outcomes at a glance
 
@@ -39,8 +40,8 @@
 |---|---|---|
 | CO1 – Apply AI techniques | SO1 | PA3 Search, Local Search, Domino AI |
 | CO2 – Design an AI application | SO2 | Domino AI |
-| CO3 – Review AI literature | SO7 | [[Literature review / paper review]] |
-| CO4 – Write & present a technical paper demo | SO3 | PA3 video, [[paper demonstration]] |
+| CO3 – Review AI literature | SO7 | Intelligence debate essay |
+| CO4 – Write & present a technical paper demo | SO3 | PA3 video, Othello paper presentation in the debate video |
 
 ---
 

@@ -12,6 +12,7 @@ Gen AI use followed the syllabus and each assignment's rules. No AI was used in 
 | [Domino AI](../projects/domino-ai/README.md) | [[ ]] | [[ ]] | [[ ]] | Engine checked against OpenSpiel (0 mismatches in 67,198 moves) |
 | [Local Search](../projects/local-search/README.md) | [[ ]] | [[ ]] | [[ ]] | Results checked against textbook figures |
 | [Python Performance](../projects/python-performance/README.md) | [[ ]] | [[ ]] | [[ ]] | Correctness check on every timed result |
+| [Debate essay](../projects/intelligence-essay/README.md) | Claude and ChatGPT, Nov 12, 2026 | Drafted Sections 2–4 from our debate transcript and our own Section 1 | [[ ]] | [[ ]]. Citation mismatches were missed before submission; I found them later by checking each in-text number against the reference list |
 
 ## 5.2 Where the tool was wrong
 [[The most convincing part of this section. One or two concrete examples: a wrong explanation, a bug in suggested code, a made-up citation, a number that didn't match your output. Say how you caught it.]]
